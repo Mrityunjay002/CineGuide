@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CineGuide/static/css/main.780c25a8.css",
+    "main.js": "/CineGuide/static/js/main.2ed7da82.js",
+    "index.html": "/CineGuide/index.html",
+    "main.780c25a8.css.map": "/CineGuide/static/css/main.780c25a8.css.map",
+    "main.2ed7da82.js.map": "/CineGuide/static/js/main.2ed7da82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.780c25a8.css",
+    "static/js/main.2ed7da82.js"
+  ]
+}
