@@ -15,8 +15,10 @@ function SingleContent({id,poster,title,date,media_type,vote_average}) {
         alt={title}
         />
         <b className='title'>{title}</b>
-        <span className='subTitle'>{media_type==="tv" ? "TV Series" : "Movie"}</span>
-        <span className='subTitle'>{date}</span>
+        <span className="subTitle">
+        {media_type === "tv" ? "TV Series" : "Movie"}
+        <span className="subTitle">{date}</span>
+      </span>
     </ContentModal>
   )
 }
